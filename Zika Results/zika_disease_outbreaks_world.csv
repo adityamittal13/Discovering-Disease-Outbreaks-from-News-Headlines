@@ -1,0 +1,193 @@
+,latitude,longitude,cluster_label,headline
+0,-19.266389999999998,146.80569,5,Townsville Zika tests inconclusive
+1,-23.38032,150.50595,5,Precautionary Zika measures in Rockhampton
+2,7.08971,171.38027,5,Is Zika virus in Majuro?
+3,-37.814,144.96331999999998,5,More Zika patients reported in Melbourne
+4,-14.833329999999998,-64.9,3,Trinidad confirms first Zika case
+5,-31.5375,-68.53639,3,San Juan reports 1st U.S. Zika-related death amid outbreak
+6,-12.971110000000001,-38.51083,3,Zika spreading to Salvador
+7,-22.725279999999998,-47.64917,3,"Zika outbreak in Piracicaba, Brazil"
+8,-12.04318,-77.02824,3,Lima tries to address Zika Concerns
+9,-19.92083,-43.93778,3,New Zika Case Confirmed in Belo Horizonte
+10,4.1419999999999995,-73.62664000000001,3,Villavicencio under Zika threat
+11,-32.035,-52.09861,3,Zika alert for Rio Grande Valley residents
+12,-23.960829999999998,-46.33361,3,Zika arrives in Santos
+13,10.65245,-61.388780000000004,3,Zika case recorded in Tunapuna »
+14,6.33732,-75.55795,3,Zika symptoms spotted in Bello
+15,-5.795,-35.20944,3,Zika arrives in Natal
+16,9.30472,-75.39778000000001,3,Zika Outbreak in Sincelejo
+17,-11.18143,-40.51372,3,Zika case reported in Jacobina
+18,-3.7172199999999997,-38.54306,3,Zika symptoms spotted in Fortaleza
+19,-3.7491199999999996,-73.25383000000001,3,Zika symptoms spotted in Iquitos
+20,-2.233,-80.91039,3,Zika Troubles come to La Libertad
+21,-2.22622,-80.85873000000001,3,Outbreak of Zika in Santa Elena
+22,-8.00889,-34.85528,3,Zika spreads to Olinda
+23,-0.22985,-78.52495,3,Zika symptoms spotted in Quito
+24,-33.29501,-66.33563000000001,3,Zika spreads to San Luis Potosi
+25,-7.87472,-35.45028,3,Zika case reported in Limoeiro
+26,-22.88583,-48.445,3,More Zika patients reported in Botucatu
+27,-3.1019400000000004,-60.025,3,Zika Outbreak in Manaus
+28,7.98654,-75.19349,3,Zika spreads to Caucasia
+29,-5.90181,-76.12234000000001,3,Zika Outbreak in Yurimaguas
+30,-1.0545799999999999,-80.45445,3,Outbreak of Zika in Portoviejo
+31,14.6042,120.9822,1,Zika alert – Manila now threatened
+32,10.69694,122.56443999999999,1,Zika afflicts 7 in Iloilo City
+33,10.82302,106.62965,1,Zika cases in Vietnam's Ho Chi Minh City surge
+34,13.753979999999999,100.50144,1,Thailand-Zika Virus in Bangkok
+35,39.9075,116.39723000000001,1,Beijing team cracks Zika secret
+36,3.1412,101.68653,1,Kuala Lumpur is Hit By Zika Threat
+37,16.80528,96.15611,1,First Zika case confirmed in Yangon
+38,3.03667,101.44333,1,"Zika surfaces in Klang, Malaysia"
+39,14.6488,121.0509,1,More Quezon City Zika Transmissions
+40,18.51957,73.85535,1,Pune woman diagnosed with Zika
+41,21.0245,105.84116999999999,1,Hospitals in Hanoi fill up with Zika patients
+42,28.65195,77.23149000000001,1,Zika: Delhi for strict monitoring
+43,37.566,126.9784,1,Seoul confirms 14th Zika infection
+44,-6.21462,106.84513000000001,1,Zika now spreading through Jakarta
+45,14.625779999999999,121.12251,1,Antipolo under threat from Zika Virus
+46,14.458960000000001,120.93851000000001,1,Spreading Zika reaches Bacoor
+47,14.211670000000002,121.16528000000001,1,Zika afflicts patient in Calamba
+48,3.1072599999999997,101.60670999999999,1,Petaling Jaya man ill from Zika
+49,17.38405,78.45636,1,Zika Outbreak in Hyderabad
+50,28.635759999999998,77.22445,1,New Delhi Addressing Zika Concerns
+51,5.9749,116.0724,1,"New Zika Case in Kota Kinabalu, Malaysia"
+52,1.4655,103.7578,1,"Zika reaches Johor Bahru, Malaysia"
+53,12.24507,109.19431999999999,1,Nha Trang Zika Outbreak
+54,-4.1279,120.0297,1,19 new Zika Cases in Sengkang
+55,10.66667,122.95,1,Outbreak of Zika in Bacolod City
+56,6.93548,79.84868,1,Zika symptoms spotted in Colombo
+57,1.28967,103.85007,1,Zika cases in Singapore reach 393
+58,4.39928,113.99163,1,Zika arrives in Miri
+59,7.073060000000001,125.61278,1,More Zika patients reported in Davao
+60,11.56245,104.91601000000001,1,Phnom Penh hit by Zika Threat
+61,14.586910000000001,121.0614,1,Outbreak of Zika in Pasig City
+62,11.99339,105.4635,1,Zika Troubles come to Kampong Cham
+63,15.7118,121.1061,1,Zika case reported in Rizal
+64,16.41904,101.16056,1,Zika case reported in Phetchabun
+65,1.55,110.33333,1,Zika spreads to Kuching
+66,17.415670000000002,102.78589000000001,1,Zika arrives in Udon Thani
+67,14.6228,121.0897,1,More Zika patients reported in Calumpang
+68,11.933810000000001,79.82979,1,Zika Outbreak in Puducherry
+69,11.24802,75.7804,1,Outbreak of Zika in Kozhikode
+70,2.3,111.81667,1,Zika symptoms spotted in Sibu
+71,7.7302800000000005,125.09889,1,Zika arrives in Quezon
+72,6.91028,122.07388999999999,1,"Sulu, Zamboanga brace for Zika"
+73,28.49615,77.53601,1,Zika Troubles come to Greater Noida
+74,6.93548,79.84868,1,Outbreak of Zika in Colombo
+75,15.3275,120.9192,1,Zika Troubles come to Jaen
+76,13.08784,80.27847,1,More Zika patients reported in Chennai
+77,12.60961,102.10446999999999,1,More Zika patients reported in Chanthaburi
+78,16.483439999999998,99.52153,1,Zika spreads to Kamphaeng Phet
+79,11.45332,104.52085,1,More Zika patients reported in Kampong Speu
+80,14.195279999999999,120.87693999999999,1,More Zika patients reported in Indang
+81,32.715709999999994,-117.16471999999999,0,Key Zika Findings in San Diego Institute
+82,37.77493,-122.41942,0,Zika Virus Reaches San Francisco
+83,47.60621,-122.33207,0,"Seattle scientists get $500,000 grant to pursue Zika vaccine New 7:50 pm"
+84,31.75872,-106.48693,0,El Paso fighting Zika
+85,33.119209999999995,-117.08641999999999,0,Escondido neighborhood to get sprayed for Zika virus
+86,37.52021,-122.2758,0,"Zika in Belmont, Belmont worry"
+87,46.87215,-113.994,0,BREAKING – Zika in Missoula
+88,34.063340000000004,-117.65088999999999,0,Zika Virus Arrives in Ontario
+89,33.57786,-101.85517,0,Zika Virus Detected in Lubbock
+90,39.534909999999996,-119.75268999999999,0,Zika Virus Sparks 'International Concern'
+91,34.09834,-118.32673999999999,0,Zika symptoms spotted in Hollywood
+92,33.8303,-116.54529,0,Outbreak of Zika in Palm Springs
+93,33.78779,-117.85311000000002,0,Zika arrives in Orange City
+94,32.72532,-114.6244,0,Zika seminars in Yuma County
+95,32.62781,-115.45446000000001,0,Zika Outbreak in Mexicali
+96,25.77427,-80.19366,6,Zika Outbreak Hits Miami
+97,40.71427,-74.00596999999999,6,Could Zika Reach New York City?
+98,25.79065,-80.13005,6,First Case of Zika in Miami Beach
+99,32.78306,-96.80667,6,Dallas man comes down with case of Zika
+100,29.763279999999998,-95.36327,6,Zika Concerns are Spreading in Houston
+101,25.90175,-97.49748000000001,6,Brownsville teen contracts Zika virus
+102,28.53834,-81.37924,6,Orlando volunteers aid Zika research
+103,27.94752,-82.45843,6,Tampa Bay Area Zika Case Count Climbs
+104,39.29038,-76.61219,6,Baltimore plans for Zika virus
+105,30.438259999999996,-84.28073,6,Tallahassee Doctors Discuss Zika Virus
+106,13.68935,-89.18718,6,Zika worries in San Salvador
+107,41.4995,-81.69541,6,Zika virus reported in Cleveland
+108,30.26715,-97.74306,6,More Zika patients reported in Austin
+109,23.133020000000002,-82.38304000000001,6,Zika Virus Transmission Detected in Havana
+110,24.555239999999998,-81.78163,6,Zika symtomps spotted in Key West
+111,36.165890000000005,-86.78444,6,Nashville takes precautions against Zika
+112,17.727510000000002,-64.74698000000001,6,Saint Croix under Zika threat
+113,43.07305,-89.40123,6,Madison lab developing vaccine against Zika virus [The Wisconsin State Journal]
+114,27.33643,-82.53065,6,New Zika Case Confirmed in Sarasota County
+115,30.332179999999997,-81.65565,6,Jacksonville man hit by Zika
+116,17.49952,-88.19756,6,Belize City under threat from Zika
+117,13.710239999999999,-89.13989000000001,6,More Zika cases in Soyapango
+118,19.42847,-99.12765999999999,6,Zika outbreak spreads to Mexico City
+119,29.424120000000002,-98.49363000000001,6,Zika San Antonio Patient Speaks Out
+120,14.0818,-87.20681,6,Zika arrives in Tegucigalpa
+121,39.96118,-82.99879,6,First Columbus Zika case
+122,27.83975,-82.79120999999999,6,"Zika Patient in Seminole, Florida"
+123,27.638640000000002,-80.39726999999999,6,Can Zika make it here to Vero Beach?
+124,30.07994,-95.41716,6,Spring break ruined by Zika in Fort Lauderdale
+125,27.50641,-99.50754,6,Two more Zika cases confirmed in Laredo
+126,39.127109999999995,-84.51439,6,First Zika Case in Cincinnati
+127,35.227090000000004,-80.84313,6,Zika cases concern Charlotte residents
+128,26.93422,-80.09421,6,Zika case reported in Jupiter
+129,25.754820000000002,-80.32727,6,Zika virus confirmed in Westchester
+130,30.42131,-87.21691,6,More Zika patients reported in Pensacola
+131,27.80058,-97.39638000000001,6,Outbreak of Zika in Corpus Christi
+132,30.15946,-85.65983,6,Outbreak of Zika in Panama City
+133,19.18095,-96.1429,6,Veracruz hit by Zika Concerns
+134,30.224090000000004,-92.01984,6,Is Lafayette prepared to combat Zika?
+135,16.91675,-89.91898,6,Zika arrives in San Benito
+136,25.89009,-80.18670999999999,6,Zika Arrives in North Miami
+137,32.2207,-98.20226,6,Outbreak of Zika in Stephenville
+138,42.30008,-83.01654,6,Tests negative on Windsor Zika carriers
+139,30.833340000000003,-83.28031999999999,6,Zika battle outlined at Valdosta meeting
+140,25.72149,-80.26838000000001,6,Zika case reported in Coral Gables
+141,26.71534,-80.05337,6,Zika arrives in West Palm Beach
+142,29.21081,-81.02283,6,Zika spreads to Daytona Beach
+143,34.17426,-97.14363,6,Zika-carrying mosquitoes discovered in Ardmore
+144,21.52536,-78.22579,6,"Zika Mosquitoes May Have Bred in Bromeliads, Florida Officials Say"
+145,33.15067,-96.82361,6,Frisco Woman Tests Positive For Zika Virus
+146,25.86898,-80.21699,6,Zika Outbreak in Pinewood
+147,37.22793,-77.40193000000001,6,Zika Strikes St. Petersburg
+148,25.97205,-100.45029,6,Four cases of Zika in Hidalgo County
+149,17.06542,-96.72365,6,Zika arrives in Oaxaca
+150,26.19063,-97.6961,6,Zika Troubles come to Harlingen
+151,10.968539999999999,-74.78132,6,Zika spreads to Barranquilla
+152,32.735690000000005,-97.10807,6,Zika symptoms spotted in Arlington
+153,26.823390000000003,-80.13865,6,Zika Spreads to Palm Beach Gardens
+154,32.44874,-99.73314,6,Zika case reported in Abilene
+155,26.15952,-97.99084,6,Zika Outbreak in Weslaco
+156,41.45282,-82.18236999999999,6,Zika case confirmed in Lorain
+157,26.21286,-80.24977,6,Zika in Tamarac!
+158,29.95465,-90.07507,6,Zika only the latest mosquito-borne threat to New Orleans
+159,31.549329999999998,-97.14667,6,More Zika patients reported in Waco
+160,42.129220000000004,-80.08506,6,Erie County sets Zika traps
+161,18.55542,-69.40814,6,Zika symptoms spotted in Quisqueya
+162,32.95373,-96.89028,6,More Zika patients reported in Carrollton
+163,26.339809999999996,-81.7787,6,Zika symptoms spotted in Bonita Springs
+164,26.621679999999998,-81.84059,6,More Zika patients reported in Fort Myers
+165,33.04623,-96.99417,6,Zika spreads to Lewisville
+166,31.134890000000002,-97.77561,6,Fort Hood Reports its First Zika Patient
+167,25.9812,-80.14838,6,Hallandale Beach a Victim of Zika Outbreak
+168,27.476290000000002,-99.51639,6,More Zika patients reported in Nuevo Laredo
+169,26.358690000000003,-80.0831,6,Zika arrives in Boca Raton
+170,27.498929999999998,-82.57481999999999,6,Bradenton Experiences Zika Troubles  
+171,28.304679999999998,-81.41667,6,Zika spreads to Kissimmee
+172,27.446709999999996,-80.32561,6,Zika reported in Fort Pierce
+173,28.6,-81.33924,6,Zika spreads to Winter Park
+174,42.13066,-70.91615999999999,6,Zika virus case reported in Rockland
+175,44.15906,-94.00915,6,Zika investigators coming to Mankato
+176,39.11566,-77.5636,6,Outbreak of Zika in Leesburg
+177,28.073890000000002,-82.43902,6,Stony Brook University experts discuss Zika virus
+178,25.77427,-80.19366,6,Miami resident suggests Zika precautions
+179,26.08061,-98.28835,6,Zika case reported in Reynosa
+180,9.73586,-75.52626,6,Zika arrives in San Onofre
+181,28.03947,-81.9498,6,More Zika patients reported in Lakeland
+182,25.77427,-80.19366,6,Zika Outbreak in South Miami
+183,17.25,-88.76666999999999,6,Zika arrives in Belmopan
+184,28.01888,-82.11469,6,Zika spreads to Plant City
+185,25.93315,-80.16255,6,Zika Reported in North Miami Beach
+186,13.701670000000002,-89.10944,6,Zika Reported in Ilopango
+187,26.46146,-80.07282,6,Zika Troubles come to Delray Beach
+188,32.72541,-97.32085,6,More Zika patients reported in Fort Worth
+189,26.52535,-80.06643000000001,6,Zika symptoms spotted in Boynton Beach
+190,18.455389999999998,-69.9454,6,More Zika patients reported in Bella Vista
+191,33.913709999999995,-98.49339,6,Zika Outbreak in Wichita Falls
